@@ -60,7 +60,7 @@ git clone [https://github.com/danieljrios/CIS11---TDJ---Test-Score-Calculator]
 
 ## Contributing
 
-This project was developed as a course assignment for educational use. 
+This project was developed as a course assignment for educational use by both authors. Both authors contributed to the documentation and coding for this project.
 
 ---
 
