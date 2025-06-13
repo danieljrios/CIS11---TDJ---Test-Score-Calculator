@@ -1,4 +1,4 @@
-# CIS11---TDJ---Test-Score-Calculator
+# CIS11 – Team DJ – Test-Score-Calculator
 LC-3 CIS-11 Test Score Calculator
 # LC-3 Test Score Calculator
 
