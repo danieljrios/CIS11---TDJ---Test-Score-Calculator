@@ -4,7 +4,7 @@ LC-3 CIS-11 Test Score Calculator
 
 A comprehensive assembly language program for the LC-3 computer architecture that processes test scores and demonstrates fundamental programming concepts including input/output operations, arithmetic calculations, and stack data structure implementation.
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a test score management system that:
 - Accepts 5 test scores from user input
