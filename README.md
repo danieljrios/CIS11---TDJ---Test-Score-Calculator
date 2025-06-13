@@ -44,6 +44,9 @@ This project implements a test score management system that:
 ### Installation & Execution
 
 1. **Clone the repository**
+```bash
+git clone [https://github.com/danieljrios/CIS11---TDJ---Test-Score-Calculator]
+```
 
 2. **Load the program**
    - Open your LC-3 simulator
