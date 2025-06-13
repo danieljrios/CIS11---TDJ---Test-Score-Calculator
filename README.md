@@ -44,10 +44,6 @@ This project implements a test score management system that:
 ### Installation & Execution
 
 1. **Clone the repository**
-   ```bash
-   git clone [repository-url]
-   cd lc3-test-score-calculator
-   ```
 
 2. **Load the program**
    - Open your LC-3 simulator
