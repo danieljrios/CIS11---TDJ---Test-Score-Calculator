@@ -66,6 +66,9 @@ This project was developed as a course assignment. For educational use, feel fre
 ---
 
 **Course**: CIS11  
+
 **Instructor**: Dr. Nguyen
+
 **Institution**: Moreno Valley College
-**Assignment**: Course Project - Test Score Calculator
+
+**Date Published**: 7/12/25
