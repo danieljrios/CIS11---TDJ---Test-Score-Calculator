@@ -12,12 +12,12 @@ This project implements a test score management system that:
 - Calculates and displays statistical information (minimum, maximum, average)
 - Demonstrates stack operations by finding the lowest grade using PUSH/POP operations
 
-## 👥 Team Members
+## Team Members
 
 - **Daniel Rios**
 - **Jade Thong**
 
-## 🎯 Features
+## Features
 
 ### Core Functionality
 - **Interactive Input**: Prompts user for 5 two-digit test scores (0-99)
